@@ -6,6 +6,6 @@
   "author": "alexleelab <alexleelab15@gmail.com>",
   "license": "MIT",
   "scripts": {
-  "start": "cd frontend && npx yarn start"
-  },
+    "start": "cd frontend && npx yarn start"
+  }
 }
