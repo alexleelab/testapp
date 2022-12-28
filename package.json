@@ -20,5 +20,9 @@
   "scripts": {
     "start": "cd frontend && npx yarn start",
     "server":"cd backend && npx yarn server"
+  },
+  "engines":{
+    "node":"v19.3.0",
+    "npm":"8.19.2"
   }
 }
