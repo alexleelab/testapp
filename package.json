@@ -23,7 +23,7 @@
     "nodemon": "^2.0.20"
   },
   "scripts": {
-    "start": "cd frontend && npx yarn start",
+    "start": "cd frontend && npx yarn start && cd ../backend && npx yarn server",
     "server": "cd backend && npx yarn server"
   },
   "engines":{
